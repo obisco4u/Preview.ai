@@ -1,0 +1,5 @@
+{
+  "name": "Preview.ai",
+  "description": "An AI-powered YouTube thumbnail generator. Simply provide a video title or a YouTube link to instantly create a stunning, clickable thumbnail for your content.",
+  "requestFramePermissions": []
+}
